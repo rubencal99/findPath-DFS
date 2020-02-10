@@ -1,0 +1,13 @@
+// Name: Ruben Calderon
+// CruzID: rucalder
+// Date: December 6, 2019
+// Pa5
+
+1. README 		- Serves as table of contents for project.
+2. Makefile 		- Compiles executable c files.
+3. List.h 		- Header file containing all method declarations for List.c.
+4. List.c	 	- List ADT with front, back, and cursor nodes.
+5. Graph.h 		- Header file containing all method declarations for Graph.c.
+6. Graph.c		- ADT conatining array of lists that represents the adjecency list of a graph.
+7. GraphTest.c		- Test file for Graph ADT, isloates methods.
+8. FindComponents.c	- Test client for Graph ADT. Runs DFS on G and tranpose(G) to find Strongly Connected Components.
